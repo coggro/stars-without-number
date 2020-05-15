@@ -1,0 +1,59 @@
+d4 - Homeworld
+2 - Jarash, Desert World
+
+d20 - Parent Occupation
+11 - Beurocrats
+    - +1D CON
+
+d20 - Early Childhood
+2 - Unloved or spurned by parents
+    - +1D CON
+
+15 - Moved to a big city
+    - +1D INT
+    - d6 - 4 - equivalent of neighboring country
+
+d20 - Adult Events
+12 - Moved to a different big city
+    - +1D INT
+
+20/6 - Apprenticed to stellar cartographer
+    - +1D INT
+
+STR - 3d6
+    6
+DEX - 3d6 + 1 free
+    11
+CON - 5d6
+    9
+INT - 6d6
+    16
+WIS - 3d6
+    14
+CHA - 3d6
+    14
+
+Unloved and spurned because was another mouth to feed.
+Move to big city was being sold into merchant marines, spending life training on a vessel.
+Apprenticed to stellar cartographer in merchant marines.
+Arrived on Derindal having earned my freedom in servitude and ready to embark on my own ventures.
+
+Scholar
+    Know - 0
+    Connect - 0
+    Administer - 0
+
+Expert
+    1 free level in focus related to background (Starfarer)
+        Pilot 0
+
+    1/scene, can reroll a failed skill and take the new roll if better
+    Bonus skill point each XP level
+    1d6+CON HP
+        6
+    +1/2 lvl round down attack bonus, +0 at 1st
+        +0
+
+Focus
+    Specialist: Know
+
