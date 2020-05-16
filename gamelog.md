@@ -1,18 +1,18 @@
 # Game Log
 
-## 2020-05-16-S - Session 001
+## 2020-05-16-S -- Session 001
 
 Our story begins with us unable to move and panicked. Stark chemical smell in the air. Crash couch enveloping our bodies. Klaxons screaming bleeding through the claustrophobic grip of the crash couch, and the ship shudders violently towards the surface of the planet we've never been to before. But it didn't start out like this...
 
-We were individually approached by a Derendali merchant - Herandor Vonketosen. Made contact in his private quarters. We eyeball each other over a low table. Each of us had responded to a subtle advertisement for work befitting our talents. Table is laid out with small dishes and drinks. We've been waiting for 45 minutes or so for him to come out of his private quarters and meet us.
+We were individually approached by a Derendali merchant - _Herandor Vonketosen_. Made contact in his private quarters. We eyeball each other over a low table. Each of us had responded to a subtle advertisement for work befitting our talents. Table is laid out with small dishes and drinks. We've been waiting for 45 minutes or so for him to come out of his private quarters and meet us.
 
-Maissa - all black jumpsuit. Hair braided and back. Ambiguous and forgettable. Laser pistol at her side.
+_Emrite_ - all black jumpsuit. Hair braided and back. Ambiguous and forgettable. Laser pistol at her side.
 
 \*\*Weird not to be carrying some form of personal protection. Need to be able to defend yourself until security forces show. Standard issue rifle is normal, larger weapons are conspicuous. If you're in armor, you're expecting that's necessary.
 
-Me - Palestinian Han Solo
+_Rahim_ - Palestinian Han Solo
 
-Kruuti - Ellaria Sand. Loose-fitting britches, knee-high boots over flowing top. Pistol at side. Backpack.
+_Kruuti_ - Ellaria Sand. Loose-fitting britches, knee-high boots over flowing top. Pistol at side. Backpack.
 
 Harandor hasn't been in the shipping industry for very long - Vanketosen shipping is about 8 months old. In good standing with authorities. Caste system is strictly divided - Military/Psychic, Compulsory service (most people remain here), Discharged/Unable To Serve (Merchants), and Vonketosen is definitely in the merchant class. Makes sense for him to be reaching out to us outside the law, since this is his best opportunity.
 
