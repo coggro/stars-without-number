@@ -90,4 +90,24 @@ A ship with standard scanning ablities and a telemetry will be able to look at a
 
 We come to and are able to emerge from the crash couch into the blinding light on the surface of Hartoum. Something broke - a tremendous bang - on the shuttle, and we spiraled down fast enough to pin us to the floor. At the last moment, emergency safety protocols engaged, and the cabin filled with impact-absorbing foam. Also contains a potent sedative.
 
-We're standing in a large crater. The shuttle, that held 50 people, and is scattered around the crater. The largest chunk at the bottom is burning heavily. The cargo portion cracked, and there is a line of baggage around 800 ft long. The sun is overhead and beautiful, the air is fresh and breathable, and a deer looks down on us from the top of the crater.
+We're standing in a large crater. The shuttle, that held 50 people, and is scattered around the crater. The largest chunk at the bottom is burning heavily. The cargo portion cracked, and there is a line of baggage around 800 ft long. The sun is overhead and beautiful, the air is fresh and breathable, and a deer looks down on us from the top of the crater. We realize that we're ravenous - like we haven't eaten in days - maybe haven't drank in that long, either.
+
+It looks like there's considerable blood along the other crash couches. Crash foam is meant to be tenuous life support system, but also built to decay before they run out of oxygen. It takes 4 days to degrade to the point where the foam will break and we can move naturally.
+
+There's a lot of cratered, shattered foam around with blood on the outside. It went into several big portions and other tiny portions. 3 main chunks fragmented the way it was supposed to. It looks like someone went through the baloons of safety foam, cut or burned them open, and executed the people inside the pods. There are clear marks of laser fire on the bodies inside.
+
+The other poeple in our bloom of foam were killed. A chunk of the shuttle fell on our forner of the pod, and we just happened to be under a chunk of ship. It seems as though we were assumed dead or crushed, and we escaped whatever befell those who traveled with us.
+
+We're in an environment like the scottish highlands. We're all but certain that we're the only survivors. 75 helpless people were killed by whoever raided this crash site. We head towards the cargo field.
+
+A lot survived. The full furrow of the ship is 2,000 ft long or so. Most of the cargo is clothes, effects, etc. Some hard case cargo containers have survived.
+
+Over an hour and a half, we're able to put together a pile of things that weren't shredded by the crash, including our cargo container. Emrite opens up the crate. The internal framing is destroyed.
+
+The medkit, shear rifle, and trade metals survived.
+
+The survival kit, line shunts, and bioscanner were destroyed.
+
+We're able to crack into the first class portions of food on the shuttle. We have 10 person/days of food and water.
+
+As we check out the shattered remnatns of the shuttle, we come across the portion of the shuttle that contained the escape pods. There are 6 pods. 5 are still attached and crushed beyond repair - 1 is missing.
