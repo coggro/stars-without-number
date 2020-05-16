@@ -12,7 +12,7 @@ We were individually approached by a Derendali merchant - **Herandor Vonketosen*
 
 **Rahim** - Palestinian Han Solo
 
-**Kruuti** - Ellaria Sand. Loose-fitting britches, knee-high boots over flowing top. Pistol at side. Backpack.
+**Kruti** - Ellaria Sand. Loose-fitting britches, knee-high boots over flowing top. Pistol at side. Backpack.
 
 Harandor hasn't been in the shipping industry for very long - Vanketosen shipping is about 8 weeks old. In good standing with authorities. Caste system is strictly divided - Military/Psychic, Compulsory service (most people remain here), Discharged/Unable To Serve (Merchants), and Vonketosen is definitely in the merchant class. Makes sense for him to be reaching out to us outside the law, since this is his best opportunity.
 
@@ -24,19 +24,19 @@ When we showed up, an electronic call & response let us in. Unintelligent servic
 
 We're looking through a well-stocked kitchen, when we hear a thump come from upstairs - a single heavy object being dropped on carpet. Emrite suggests checking it out, and we head upstairs. We smell the strong scent of alcohol. We find a figure hanging torso off the bed with a mostly-empty bottle of liquor on the ground. He is wearing a silk robe and silk pants underneath and seems to be dead/passed out/unclear?
 
-Emrite checks for a pulse. He is surrounded in a cloud of alcoholic haze. The bottle is 90% empty, and she thinks she knows where that 90% is... He's breathing, but shallowly. This is definitly Vonketosen. As Emrite and Kruuti move him onto the bed, he makes mewling noises and attempts speech, but is massively inebriated.
+Emrite checks for a pulse. He is surrounded in a cloud of alcoholic haze. The bottle is 90% empty, and she thinks she knows where that 90% is... He's breathing, but shallowly. This is definitly Vonketosen. As Emrite and Kruti move him onto the bed, he makes mewling noises and attempts speech, but is massively inebriated.
 
 We see a small bottle of fruit nectar that might've made a good mixer, but not for all of the alcohol that he's consumed. On the other side of the bed, scattered around the floor are bank statement printouts - with considerable red ink. Near the statements is a military officer's sidearm - a charged laser pistol, safety on.
 
 There's lots scattered around. It's densely packed with things accumulated over life. It becomes obvious that he was a pilot. Images displayed in frames, art on the wall, photos of others in flight gear, etc. It will probably take a few hours for him to come out of this, unless we do something else to speed it up. Emrite and Rahim begin to look around the estate for a medkit.
 
-Kruuti checks his pockets and finds his compad, which he's left unlocked. There is a half-composed email/letter. It starts out incoherent _and gets worse_.
+Kruti checks his pockets and finds his compad, which he's left unlocked. There is a half-composed email/letter. It starts out incoherent _and gets worse_.
 
 `youuuuuuuuuuuuuuuudddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ............. ;a`
 
-The recipient is already keyed in: **Shenkor Mohejen**. Kruuti has never heard this name before. She pokes into the rest of the emails. There are so many past due notices in his inbox that it looks like a spam folder. It appears that he's a broke person attempting to stay in high society. Limo services, air taxes, expensive food delivery, etc.
+The recipient is already keyed in: **Shenkor Mohejen**. Kruti has never heard this name before. She pokes into the rest of the emails. There are so many past due notices in his inbox that it looks like a spam folder. It appears that he's a broke person attempting to stay in high society. Limo services, air taxes, expensive food delivery, etc.
 
-Kruuti looks at the financial documents and figures out that most of his wealth was in investments - hugely diversified - but within the same week, his banks told him that "Due to a discrepency in your accounts and issues with the origins of your investments, we have zeroed out your accounts."
+Kruti looks at the financial documents and figures out that most of his wealth was in investments - hugely diversified - but within the same week, his banks told him that "Due to a discrepency in your accounts and issues with the origins of your investments, we have zeroed out your accounts."
 
 Rahim and Emrite find a medkit, but almost all the drugs have already been taken. There is one dose remaining of a mild stimulant in a single-use spray - like two more pills at the bottom of a container of caffeine pills. In looking in his wardrobe, we find a military full dress uniform.
 
@@ -73,7 +73,11 @@ Emrite spent 15 years of her life traveling with her bounty hunter godmother, a 
 
 While employed with the Merchant Marines, Rahim mapped a faster route between Jerash and Vindelicorum.
 
-Kruuti is a procurer and augmentor of goods. She's not a drug dealer, but she can get you what you want.
+Kruti is a procurer and augmentor of goods. She's not a drug dealer, but she can get you what you want.
 ```
 
 We decide not to dig further into Shenkor, and head for the Beauty.
+
+## -- The Beauty --
+
+The beauty is a sizable frigate with a considerable weapon mounted.
