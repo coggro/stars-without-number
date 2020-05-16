@@ -30,4 +30,6 @@ We see a small bottle of fruit nectar that might've made a good mixer, but not f
 
 There's lots scattered around. It's densely packed with things accumulated over life. It becomes obvious that he was a pilot. Images displayed in frames, art on the wall, photos of others in flight gear, etc. It will probably take a few hours for him to come out of this, unless we do something else to speed it up. Emrite and Rahim begin to look around the estate for a medkit.
 
-Kruuti checks his pockets
+Kruuti checks his pockets and finds his compad, which he's left unlocked. There is a half-composed email/letter. It starts out incoherent _and gets worse_.
+
+`youuuuuuuuuuuuuuuudddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ............. ;a`
