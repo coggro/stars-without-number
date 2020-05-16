@@ -34,4 +34,8 @@ Kruuti checks his pockets and finds his compad, which he's left unlocked. There 
 
 `youuuuuuuuuuuuuuuudddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ............. ;a`
 
-The recipient is already keyed in: **Shenkor Mohejen**.
+The recipient is already keyed in: **Shenkor Mohejen**. Kruuti has never heard this name before. She pokes into the rest of the emails. There are so many past due notices in his inbox that it looks like a spam folder. It appears that he's a broke person attempting to stay in high society. Limo services, air taxes, expensive food delivery, etc.
+
+Kruuti looks at the financial documents and figures out that most of his wealth was in investments - hugely diversified - but within the same week, his banks told him that "Due to a discrepency in your accounts and issues with the origins of your investments, we have zeroed out your accounts."
+
+Rahim and Emrite find a medkit, but almost all the drugs have already been taken. There is one dose remaining of a mild stimulant in a single-use spray - like two more pills at the bottom of a container of caffeine pills.
