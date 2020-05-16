@@ -38,4 +38,24 @@ The recipient is already keyed in: **Shenkor Mohejen**. Kruuti has never heard t
 
 Kruuti looks at the financial documents and figures out that most of his wealth was in investments - hugely diversified - but within the same week, his banks told him that "Due to a discrepency in your accounts and issues with the origins of your investments, we have zeroed out your accounts."
 
-Rahim and Emrite find a medkit, but almost all the drugs have already been taken. There is one dose remaining of a mild stimulant in a single-use spray - like two more pills at the bottom of a container of caffeine pills.
+Rahim and Emrite find a medkit, but almost all the drugs have already been taken. There is one dose remaining of a mild stimulant in a single-use spray - like two more pills at the bottom of a container of caffeine pills. In looking in his wardrobe, we find a military full dress uniform.
+
+Rahim stims Vonketosen, who promptly vomits all over him, begins to try to throttle him, and curses Shenkor. Rahim manages to push him back onto the bed, where is sobbing like a child. Emrite asks him if he's ok, and if he would like a shower. His service drone offers laundry service, which Rahim takes adavantage of. We hear crying from the shower, and shortly thereafer, Vonketosen emerges dressed and cleaned. Rahim gets a suit.
+
+He's destitute. He can't afford the house, his cars have been repossessed, and he expects to be evicted. We are his literal last hope. He'll be on the street shortly. He's a desparate man. Emrite asks what he needs. Crudely put, he needs more money than God. He believes that he knows where to find it, in return for a slice of it.
+
+He asked if we have heard of Shenkor, a Coven Intelligence Agent, and his rival for a promotion in the agency. He learned of his situation before Vonketosen did - a fortune built on lies. Thought to be shipping magnates, built upon a ponzi scheme. He inherited his wealth. Was "a motherfucker of a pilot," but inherited his money.
+
+He was up for a position training pilots for intel/observation craft. Mohejen figured out the false fortune, and saw fit to alert all institutions simultaneously. We are to be the instruments on his revenge. In exchange for being the viscious hand of retribution against this cumstain of a man, we will be made rich beyond our wildest dreams. He's landlocked - but we are not. He knows about several opportunities he meant to pursue after his service to the coven.
+
+He knows of a cache of pre-tech on Hartoum, one jump away. The locals are... questionably aware of it. He believes that we can get there, recover it, and bring it back to him. Or, at least, firm evidence of its existence. He can leverage his reputation to retreive the rest and make us fabulously wealthy. Why not take it for ourselves? Vonketosen believes that when he bonded with his familiar, more of the animal made it into him. He's an accomplished telepath, and suggests that we not end up in the same room.
+
+When we leave, he will be consuming the remainder of his alcohol and getting so drunk that he will forget the majority of the conversation. When we accomplish what he's sent us to do, we will give him a passphrase, and give him a treasure to double his initial fortunes. We cannot bring it off Hartoum, but he could make that happen.
+
+The pre-tech can see things that travel over the speed of light. If we can locate and secure the observatory, he should be able to outmaneuver Shenkor and make us rich. The best he can tell us is that it's somewhere near Karomir, a simple village. Stories of the observatory are traced back to this village. We're probably not the only ones looking. He has some hard currency remaining to get us transport. We can't get our own ship, but should be able to get passage on a trading ship. We would have standard passenger fare.
+
+He believes he would be able to offer us 1MM credits of astronautical work at the shipyards - enough for a reasonably valuable ship. We agree, and he heads out to his kitchen. We put together an order for some extra stuff, and it should be delivered to the **Benorgu Beauty** - a medkit, a Hartoum survival kit, a shear rifle, 5 line shunts, trade metals, and a bioscanner.
+
+We get pings about 10m after we step outside with flight itineraries to board the ship in 16 hours. It's a trading ship with passenger service, and is bound for Hartoum and Points Further. It drills into the system, ferries people with the shipboard shuttle, and drills out.
+
+We leave, and go to a bar to get to know each other a little better.
