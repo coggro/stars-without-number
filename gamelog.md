@@ -33,3 +33,5 @@ There's lots scattered around. It's densely packed with things accumulated over 
 Kruuti checks his pockets and finds his compad, which he's left unlocked. There is a half-composed email/letter. It starts out incoherent _and gets worse_.
 
 `youuuuuuuuuuuuuuuudddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd ............. ;a`
+
+The recipient is already keyed in: **Shenkor Mohejen**.
