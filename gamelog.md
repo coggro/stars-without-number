@@ -14,7 +14,7 @@ We were individually approached by a Derendali merchant - **Herandor Vonketosen*
 
 **Kruuti** - Ellaria Sand. Loose-fitting britches, knee-high boots over flowing top. Pistol at side. Backpack.
 
-Harandor hasn't been in the shipping industry for very long - Vanketosen shipping is about 8 months old. In good standing with authorities. Caste system is strictly divided - Military/Psychic, Compulsory service (most people remain here), Discharged/Unable To Serve (Merchants), and Vonketosen is definitely in the merchant class. Makes sense for him to be reaching out to us outside the law, since this is his best opportunity.
+Harandor hasn't been in the shipping industry for very long - Vanketosen shipping is about 8 weeks old. In good standing with authorities. Caste system is strictly divided - Military/Psychic, Compulsory service (most people remain here), Discharged/Unable To Serve (Merchants), and Vonketosen is definitely in the merchant class. Makes sense for him to be reaching out to us outside the law, since this is his best opportunity.
 
 Framed Derendali flight suit of significant rank with his name embroidered on the side ofit on the wall, in a place of honor & highlighted, when we came in. Framed case next to it of Derendali medals of service. He's a decorated captain. Weird that it didn't show up when we looked him up.
 
@@ -63,3 +63,5 @@ We leave, and go to a bar to get to know each other a little better.
 ## -- RESEARCH --
 
 Emrite pulls out her dataslab and looks for information on Shenkor Mohejen. She finds a reference to an awards ceremony when he entered the intelligence service and earned a high medal for achievement. In the photo, he looks extraordinarily nondescript. Military haircut, no tattoos or scars. He's a man of slight build.
+
+Herendor isn't mentioned much. His entry to pilot candidacy school, but they don't publish much regarding their military exploits. His most recent hit is a public news article of how he was dismissed from military service dishonorably two months ago. Within two weeks, he was dishonorably discharged and all of his investments vanished. His parents died about a year ago. His father was a business magnate, and his death was notable.
