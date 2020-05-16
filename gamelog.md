@@ -65,3 +65,15 @@ We leave, and go to a bar to get to know each other a little better.
 Emrite pulls out her dataslab and looks for information on Shenkor Mohejen. She finds a reference to an awards ceremony when he entered the intelligence service and earned a high medal for achievement. In the photo, he looks extraordinarily nondescript. Military haircut, no tattoos or scars. He's a man of slight build.
 
 Herendor isn't mentioned much. His entry to pilot candidacy school, but they don't publish much regarding their military exploits. His most recent hit is a public news article of how he was dismissed from military service dishonorably two months ago. Within two weeks, he was dishonorably discharged and all of his investments vanished. His parents died about a year ago. His father was a business magnate, and his death was notable.
+
+We learn a few things about one another:
+
+`
+Emrite spent 15 years of her life traveling with her bounty hunter godmother, a talented psychic who taught her what she could.
+
+While employed with the Merchant Marines, Rahim mapped a faster route between Jerash and Vindelicorum.
+
+Kruuti is a procurer and augmentor of goods. She's not a drug dealer, but she can get you what you want.
+`
+
+We decide not to dig further into Shenkor, and head for the Beauty.
