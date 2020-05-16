@@ -68,12 +68,12 @@ Herendor isn't mentioned much. His entry to pilot candidacy school, but they don
 
 We learn a few things about one another:
 
-`
+```
 Emrite spent 15 years of her life traveling with her bounty hunter godmother, a talented psychic who taught her what she could.
 
 While employed with the Merchant Marines, Rahim mapped a faster route between Jerash and Vindelicorum.
 
 Kruuti is a procurer and augmentor of goods. She's not a drug dealer, but she can get you what you want.
-`
+```
 
 We decide not to dig further into Shenkor, and head for the Beauty.
