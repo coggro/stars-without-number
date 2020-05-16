@@ -62,4 +62,4 @@ We leave, and go to a bar to get to know each other a little better.
 
 ## -- RESEARCH --
 
-Emrite pulls out her dataslab and looks for information on
+Emrite pulls out her dataslab and looks for information on Shenkor Mohejen. She finds a reference to an awards ceremony when he entered the intelligence service and earned a high medal for achievement. In the photo, he looks extraordinarily nondescript. Military haircut, no tattoos or scars. He's a man of slight build.
