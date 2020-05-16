@@ -80,4 +80,14 @@ We decide not to dig further into Shenkor, and head for the Beauty.
 
 ## -- The Beauty --
 
-The beauty is a sizable frigate with a considerable weapon mounted.
+The Beauty is a sizable frigate with a considerable weapon mounted. We head through the crowds to the ship. We board, find our seats (in a block next to each other). The docking clamps release, and we take off. We head towards the edge of the system and begin the spike drill to Hartoum.
+
+Our ticket includes a coffin-hotel sleeping space and meager food. There's a common eating space that we eat at in shifts. Common knowledge is that people are going to Hartoum for a pilgrimage. People spend some time on Hartoum, which is deliberately very simple - TL 2, Industrial Revolution - so that they can live a simple life for religious contemplation.
+
+There was never a jump gate here. The colony ship in orbit was a small, floating city. Portions of it are still powered, and people live on it. Some of it functions as an abbey or monestary, serving a religion that sprang up around the settling of this sector. Chunks of the ship have fallen from orbit and survived.
+
+A ship with standard scanning ablities and a telemetry will be able to look at a planet and get relatively simple data back - atmosphere, geology, advanced energy-using surface communities, ships in orbit, and features designed to attract orbital interest. We'd need dedicated scanning tech to find things from orbit.
+
+We come to and are able to emerge from the crash couch into the blinding light on the surface of Hartoum. Something broke - a tremendous bang - on the shuttle, and we spiraled down fast enough to pin us to the floor. At the last moment, emergency safety protocols engaged, and the cabin filled with impact-absorbing foam. Also contains a potent sedative.
+
+We're standing in a large crater. The shuttle, that held 50 people, and is scattered around the crater. The largest chunk at the bottom is burning heavily. The cargo portion cracked, and there is a line of baggage around 800 ft long. The sun is overhead and beautiful, the air is fresh and breathable, and a deer looks down on us from the top of the crater.
