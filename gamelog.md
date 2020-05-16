@@ -59,3 +59,7 @@ He believes he would be able to offer us 1MM credits of astronautical work at th
 We get pings about 10m after we step outside with flight itineraries to board the ship in 16 hours. It's a trading ship with passenger service, and is bound for Hartoum and Points Further. It drills into the system, ferries people with the shipboard shuttle, and drills out.
 
 We leave, and go to a bar to get to know each other a little better.
+
+## -- RESEARCH --
+
+Emrite pulls out her dataslab and looks for information on
