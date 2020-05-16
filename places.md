@@ -1,9 +1,13 @@
 # Places
 
-## Benorgu Beauty
+## Cities/Towns
 
-### Ship we're flying on to Hartoum
+### Carromir
 
-## Carromir
+#### Colony on Hartoum's surface
 
-### Colony on Hartoum's surface
+## Ships
+
+### Benorgu Beauty
+
+#### Ship we're flying on to Hartoum
