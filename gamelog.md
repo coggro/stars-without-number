@@ -122,4 +122,50 @@ We stand on the lip of the crater. Emrite uses the light on her metatool to look
 
 Kruuti takes out her light as well and we see a mostly-translucent speckled 6-tentacled cephalopod. Nearby, another also splashes in the puddle. It's a muggy bog. We're a good 75 ft above the plains below us.
 
-We see lots of broken trees, but they aren't pointed towards the crater. Kruuti attempts to fix the bioscanne.
+We see lots of broken trees, but they aren't pointed towards the crater. Kruuti attempts to fix the bioscanner and accomplishes her task in about an hour. Rahim figures out that the cockpit isn't disintegrated on impact, and landed belly-first. There may be salvagable data or systems in that cockpit. He also knows that he doesn't know much about the squids, but he's fairly certain they don't belong here.
+
+Emrite searches the perimeter, armed with her shear rifle and laser pistol. She finds the burning trail of stuff behind the ship. She makes her way down the hill and gets the sense that there is considerable water here, flowing back to the NW - in the direction the shuttle crashed down from. She's about 3/4 of the way around when she finds the body of a sheep... in a large tree... 18ft off the ground...speared on a broken branch...
+
+It's been dead for a while - smelt before seen, and the tree is spattered at least that far in black mud. The sheep is outside the splash range of the ship's crash, and has been dead for longer than 4 days.
+
+Rahim makes his way to the cockpit. There's no body inside. Blood everywhere, but not bodies. There are holes in the flight console like someone shot it with a very powerful weapon. There is intact equipment, and Rahim is able to access the shuttle's computer.
+
+- Last known location
+
+  - Rahim assists via INT Pilot
+  - Kruuti figures out the ship went down just 26 km NW of the colony
+
+- External force or mechanical failure
+
+  - The shuttle had a series of catastrophic failures in sequence.
+  - 10m before atmo, atmo sealant failure, atmo vented hard. To keep the cabin alive, the pilots executed a hard dive into atmo, which would shred the outside of the shuttle but keep passengers oxygenated. Shuttle hull badly damaged.
+  - Just after atmo, pilot lifesigns flatlined. Severe damage to instrumentation.
+  - After atmo was completed, 1 escape pod jettisoned (15 person capacity, 3 people inside). No other pods jettisoned before impact.
+
+We realize that there have been no bodies left.
+
+We expect full sunrise at 7am. We realize that the bog level is high, and that this isn't normal. Something has gone terribly wrong with this landscape. There are additional drowned sheep in the trees, and the trees are awash with black mud. Rivulets of water run everywhere. It's clear that there was a terrible flood here.
+
+We decide to take some time and resources (spare parts, shuttle seats, escape pod engines, etc.) to create a crude hovercraft. We salvage enough energy in a B-cell to power the craft for 4 days. We board the Gender Neutral and Rahim takes the pilot's seat.
+
+On our maiden voyage, the craft works! It stayes together, rattles a bunch, and is propelled by maneuvering pods from the escape pod. It makes a noise like a steam train in a tunnel, and rattles so hard it feels like one might chip a tooth. At some point, we hear a clang and a splash, and none of us can figure out what fell off...
+
+The sun is high, we are all hot, and catching bugs in our teeth. Our passing is a vulgar affront to a fairly quiet scene as we realize that a recent flood has devestated the highlands. Whatever trees are still rooted are centers of debris islands - fallen trees, dead livestock, etc.
+
+The craft works better on the water, but we begin to smell rot. We pass a pale, naked, human body - and then more. Scavenging birds circle overhead, scattered by the sound of our craft. Faces turn towards us as we approach where Karomir used to be. People are wading through the water up to their waists, chests. They're naked or half-naked, some in nightclothes... There's a river here that has broken its banks. Fish and strange squid everywhere. Birds love the squid, so they're not rotting in too many places.
+
+We hear a bell ring out ahead of us and see houses piled together. We think we arrived at Karomir. As we're approaching, the water pushes us downstream atop a river heading through the middle of the settlement. A tree suddenly rises up like we had stepped on a rake. Rahim cranks the wheel. An engine bottle rockets away. We jerk away from the tree, clipping the ass of the craft, but avoid smashing full-on into the tree. We are intact, but rattled. We have arrived at what remains of Karomir.
+
+Everything is stained with mold and lichen. People all over shout, wail, and haul makeshift skiffs of their things. People are barely getting their shit together from the catastrophic flood. Nearest us, an old man drags a drowned body onto makeshift docs cobbled together from broken beams. To our right, a priest from the pilgrimage site clings to a log, shrieking "Everything is ruined, oh god..." etc. etc. and seems to have run out of reasons to get out of the water. A woman rafting atop a large door is trying to keep several people atop her craft.
+
+We're still far out from the buildings - 5-10 minutes - and haven't found dry land yet. Almost all water is knee-waist deep, and the center of the river is tree deep.
+
+Life here is a complete mess.
+
+Several miles NE of Karomir is a visible column of steam. The river continues on, but the people are devastated. There isn't much we can do for them, so we continue along.
+
+Closer to the building are more people. Two women on a low hillock. One is screaming, audible over the roar of our apocalypse boat, often repeating "UNCLEAN MEAT". Next to her, paying apparently no attention, is an ancient crone of a woman with a corpse next to her, grabbing it by the head, and staring intently into its mouth. We pass them by as well. The screaming woman sees us, points at our craft, and continues to scream about "UNCLEAN MEAT".
+
+We pass the remains of a building on a muddy hill, barely sticking out of the water. A man, almost as old as the crone, stands - dressed well, soaked to the bone. He is using his bare hands to scrape out shallow graves for bodies laid over the hill. Next to him, in a half-wrecked buidling, is a woman in her mid-20s, surrounded by a screaming group of 7-9yo children. They're all shouting at her, asking her where their parents are. She's frantically trying to calm them, and looks at our craft with an uninterpretable glance.
+
+We decide to stop and have a chat with the schoolmarm.
