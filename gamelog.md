@@ -111,3 +111,15 @@ The survival kit, line shunts, and bioscanner were destroyed.
 We're able to crack into the first class portions of food on the shuttle. We have 10 person/days of food and water.
 
 As we check out the shattered remnatns of the shuttle, we come across the portion of the shuttle that contained the escape pods. There are 6 pods. 5 are still attached and crushed beyond repair - 1 is missing.
+
+## 2020-05-23-S -- Session 002
+
+We are in the smoking crater of the ship's boat. Something terrible happened on our way down, and so we have awakened several days after the crash. It's roughly 4AM.
+
+"The crash has really thrown a wrench in your plans."
+
+We stand on the lip of the crater. Emrite uses the light on her metatool to look at the area around us and notices that the ground around us is incredibly muddy. That's odd, since we're at the top of a hill... The trees around us look odd as well. Those near us have mud splashed on them up around mid-thigh height. There is something splashing in a nearby mud puddle.
+
+Kruuti takes out her light as well and we see a mostly-translucent speckled 6-tentacled cephalopod. Nearby, another also splashes in the puddle. It's a muggy bog. We're a good 75 ft above the plains below us.
+
+We see lots of broken trees, but they aren't pointed towards the crater. Kruuti attempts to fix the bioscanne.
