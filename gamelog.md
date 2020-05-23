@@ -168,4 +168,26 @@ Closer to the building are more people. Two women on a low hillock. One is screa
 
 We pass the remains of a building on a muddy hill, barely sticking out of the water. A man, almost as old as the crone, stands - dressed well, soaked to the bone. He is using his bare hands to scrape out shallow graves for bodies laid over the hill. Next to him, in a half-wrecked buidling, is a woman in her mid-20s, surrounded by a screaming group of 7-9yo children. They're all shouting at her, asking her where their parents are. She's frantically trying to calm them, and looks at our craft with an uninterpretable glance.
 
-We decide to stop and have a chat with the schoolmarm.
+We decide to stop and have a chat with the schoolmarm. 2/4 walls were ripped away, and the building is half-collapsed. She wears a soaked dress, shivering. The children are also soaked, spattered in mud. Kruuti bioscans the teacher and finds she's in relative good health - hungry, cold, but not poisoned or dying.
+
+Emrite asks what happened, and the woman says there was a flood. The dam burst, the water came and washed away the town. She wants to know if we have any food, and that the children are starving. Kruti asks when this happened, and it has apparently been 6-7 days. Emrite asks about the dam. She points vaguely upriver, but doesn't know anything about the dam. She asks if we're there to help, and Emrite responds no. The woman looks crestfallen. She asks if we can take them to safety, but we can't.
+
+She seems lost in her own thoughts, and the children begin screaming again. **Miss Trowen** begins sobbing as the children overwhelm her again. We push off and head upriver towards the dam.
+
+Along the way, about halfway towards the cluster of buildings, a large mound of freshly turned soil with pale limbs sticking out of it, moves and twitches. Near the pile is a tall, thin man, down on one knee, with his arm around a small child, talking to him conspiratorily. On the other side is the biggest group of people we've seen so far, hauling on beams of wood out of a stack. We see one teetering towards the top, and attempt to warn them. When that doesn't work, Emrite tries to hit it with her shear rifle in burst mode. The shear rifle makes absolutely no noise except for an external mechanism marking off three rounds from the battery. The structural beam just... falls apart.
+
+We begin to enter the cluster of buildings, a rural village center. Higher buildings have planks across rooves or floors for traversal. People are taking notice of our roaring devastation vessel. Buildings are wood, painted to look like stone.
+
+We see a guy with a messenger bag with multiple compads and dataslabs on the roof of a building, looking out with binoculars at the column of steam. There is a virutally naked, raggedly thin child creeping up behind him, and he looks completely unsuspecting. Meanwhile, a large crowd is gathered between two connected buildings with a muddy courtyard between them. They're shouting in anger at one man wearing spacers' overalls, and they appear to be about to actually lynch him.
+
+Rahim tries to warn the guy, but ends up accidentally distracting him. The kid takes advantage of the opening and takes a compad from his bag.
+
+A moment of listening to the people are accusing the man of being a thief, that he stole bread, etc. We disembark and approach the crowd from the rear.
+
+In the mud at their feet is a messenger bag spilling out the same kind of preserved meals we had from our ship. It's been stepped on several times, and has 60/man/days of high-density food. The stencil on them says "The Latapan". Kruti picks up the bag, takes 6 units out, and makes her way to the front of the crowd. Emrite uses her telekinetic abilities to mitigate the noose temporarily. Kruti begins passing out food and tries to disperse the crowd.
+
+The crowd quickly dies down until the last ones remaining are the prime lynch executors. A shock of realization comes over them, and they release the man. They look at Kruti. One asks where the food came from, and she responds that they were in such a hurry to kill him they stepped over their own food.
+
+The name on his coverall is Kashusko, Max. Tattoos crawl up out of his coverall from his neck to behind his ear. They are floral themed, and they cover most of his body. He shakily gets to his feet, thanks Kruti, and takes some time to catch his breath. She distributes the remaining food, and they disperse. Towards the end, the woman who had had the noose in her hand, takes her food and apologizes to Max, but seems to think he would get it. He smiles, and says he gets it, "but maybe not twice, alright?"
+
+Kruti bioscans him, and he seems generally bruised and sore, but will be ok. He says the whole place went insane about a week ago. A wall of water swept through. They were doing a medical dropoff. Blast from upriver. He heard it go off. Nobody fights onworld normally. It's usually a safe run. They go to take cover, and he sees the wall of water. Slammed into the town like a fist. Their ship got tumbled, and they'll be here months. The food gets scarce and they're treating each other miserably. This bag of food was sold by one of the idiot deckhands. Captain sent him to recover it, and they flipped shit saying he stole it from them. He'll vouch for us to his captain.
