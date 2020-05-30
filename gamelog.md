@@ -52,7 +52,7 @@ He knows of a cache of pre-tech on Hartoum, one jump away. The locals are... que
 
 When we leave, he will be consuming the remainder of his alcohol and getting so drunk that he will forget the majority of the conversation. When we accomplish what he's sent us to do, we will give him a passphrase, and give him a treasure to double his initial fortunes. We cannot bring it off Hartoum, but he could make that happen.
 
-The pre-tech can see things that travel over the speed of light. If we can locate and secure the observatory, he should be able to outmaneuver Shenkor and make us rich. The best he can tell us is that it's somewhere near Karomir, a simple village. Stories of the observatory are traced back to this village. We're probably not the only ones looking. He has some hard currency remaining to get us transport. We can't get our own ship, but should be able to get passage on a trading ship. We would have standard passenger fare.
+The pre-tech can see things that travel over the speed of light. If we can locate and secure the observatory, he should be able to outmaneuver Shenkor and make us rich. The best he can tell us is that it's somewhere near Carromir, a simple village. Stories of the observatory are traced back to this village. We're probably not the only ones looking. He has some hard currency remaining to get us transport. We can't get our own ship, but should be able to get passage on a trading ship. We would have standard passenger fare.
 
 He believes he would be able to offer us 1MM credits of astronautical work at the shipyards - enough for a reasonably valuable ship. We agree, and he heads out to his kitchen. We put together an order for some extra stuff, and it should be delivered to the **Benorgu Beauty** - a medkit, a Hartoum survival kit, a shear rifle, 5 line shunts, trade metals, and a bioscanner.
 
@@ -152,9 +152,9 @@ On our maiden voyage, the craft works! It stayes together, rattles a bunch, and 
 
 The sun is high, we are all hot, and catching bugs in our teeth. Our passing is a vulgar affront to a fairly quiet scene as we realize that a recent flood has devestated the highlands. Whatever trees are still rooted are centers of debris islands - fallen trees, dead livestock, etc.
 
-The craft works better on the water, but we begin to smell rot. We pass a pale, naked, human body - and then more. Scavenging birds circle overhead, scattered by the sound of our craft. Faces turn towards us as we approach where Karomir used to be. People are wading through the water up to their waists, chests. They're naked or half-naked, some in nightclothes... There's a river here that has broken its banks. Fish and strange squid everywhere. Birds love the squid, so they're not rotting in too many places.
+The craft works better on the water, but we begin to smell rot. We pass a pale, naked, human body - and then more. Scavenging birds circle overhead, scattered by the sound of our craft. Faces turn towards us as we approach where Carromir used to be. People are wading through the water up to their waists, chests. They're naked or half-naked, some in nightclothes... There's a river here that has broken its banks. Fish and strange squid everywhere. Birds love the squid, so they're not rotting in too many places.
 
-We hear a bell ring out ahead of us and see houses piled together. We think we arrived at Karomir. As we're approaching, the water pushes us downstream atop a river heading through the middle of the settlement. A tree suddenly rises up like we had stepped on a rake. Rahim cranks the wheel. An engine bottle rockets away. We jerk away from the tree, clipping the ass of the craft, but avoid smashing full-on into the tree. We are intact, but rattled. We have arrived at what remains of Karomir.
+We hear a bell ring out ahead of us and see houses piled together. We think we arrived at Carromir. As we're approaching, the water pushes us downstream atop a river heading through the middle of the settlement. A tree suddenly rises up like we had stepped on a rake. Rahim cranks the wheel. An engine bottle rockets away. We jerk away from the tree, clipping the ass of the craft, but avoid smashing full-on into the tree. We are intact, but rattled. We have arrived at what remains of Carromir.
 
 Everything is stained with mold and lichen. People all over shout, wail, and haul makeshift skiffs of their things. People are barely getting their shit together from the catastrophic flood. Nearest us, an old man drags a drowned body onto makeshift docs cobbled together from broken beams. To our right, a priest from the pilgrimage site clings to a log, shrieking "Everything is ruined, oh god..." etc. etc. and seems to have run out of reasons to get out of the water. A woman rafting atop a large door is trying to keep several people atop her craft.
 
@@ -162,7 +162,7 @@ We're still far out from the buildings - 5-10 minutes - and haven't found dry la
 
 Life here is a complete mess.
 
-Several miles NE of Karomir is a visible column of steam. The river continues on, but the people are devastated. There isn't much we can do for them, so we continue along.
+Several miles NE of Carromir is a visible column of steam. The river continues on, but the people are devastated. There isn't much we can do for them, so we continue along.
 
 Closer to the building are more people. Two women on a low hillock. One is screaming, audible over the roar of our apocalypse boat, often repeating "UNCLEAN MEAT". Next to her, paying apparently no attention, is an ancient crone of a woman with a corpse next to her, grabbing it by the head, and staring intently into its mouth. We pass them by as well. The screaming woman sees us, points at our craft, and continues to scream about "UNCLEAN MEAT".
 
@@ -195,3 +195,7 @@ Kruti bioscans him, and he seems generally bruised and sore, but will be ok. He 
 He says the people who live her are weird - and he chooses to live in space. These people choose to live 2000 years in the past. Emrite tells him we crash landed and he seems astonished. Apparently, they saw us come down like a comet. He says Captain Zarathusa is a sharp man, fair, but be polite. He's at the end of his rope right now between the people and the deckhand, shit's nuts.
 
 We take him on our hovercraft over to the ship that has rolled into the center of town on a 30deg cant and a 45deg angle, wedged between two buildings. Where the wings were torn, the space between has been crudely filled in with expanding foam. Ladders hang for access and tarps hang for sun shields. Workmen shout and locals mill about shouting at people in the ship.
+
+## 2020-05-30-S -- Session 003
+
+Max takes us through Carromir.
