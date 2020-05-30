@@ -232,4 +232,28 @@ Kruti also secures us a pressure tent.
 
 She gives us a link to the ship's transponder, so we can ping the ship if we find working radio equipment. The only reason they have a LAN at all is that they repurposed someone's PS9-equivalent to rig it up.
 
-We get a brief tour through the ship before Max hooks us up. We get a full B cell - enough to power the Gender Neutral for 2 weeks.
+We get a brief tour through the ship before Max hooks us up. We get a full B cell - enough to power the Gender Neutral for 2 weeks. We're given a canvas bag without the ship's mark with unwrapped rations rewrapped in extruded plastic bags. There are 5 days of food for all 3 of us (15 total units) in the bag. We also get an expandable pressure tent - this **is** marked with the Latipan's ship mark, which Max promptly covers in duct tape. He escorts us to the air lock where we receive our weapons and we are free to depart the ship.
+
+We decide to leave for the dam. The column of steam is actually rising from further north from the dam. The water heads vaguely northeast towards the dam, but the steam is NNW from there.
+
+The valley floor winds up towards the dam, and the land has become a flood plain. There are chunks of houses floating down - wreckage of other villages and towns. We follow the path of the river to avoid the trees coming up from the water. We're passing other spacers, mostly. Predators and scavengers are out eating dead fish and such. More squids and pike in the water, squids camoflauging as we pass.
+
+We're heading upriver, fighting a strong current. We come upon 2 men facing each other, standing on the surface of the water with no apparent support. Each has a strange device in their hands - like their hand was fitted inside a basketball with a grip on the inside. They are furious with each other - pointing, shouting, and spitting in rage.
+
+We pull closer. Nearby, we can see a small boat fitted with an outboard motor hidden in the reeds. The one closer to the W bank is... plump. He speaks Mandate Common with an unplacable accent with this device with shaking antennae on the end of it. "Pompous shitbag, overfunded fuckbutt" is said. Every violent gesture moves the water. The other looks anemic, like he's barely standing - but that's his default. He's flushed, and wearing a hat like a collapsed flan. "You took my funding, both stuck here with one boat and two devices and not enough to get the job done..." Rem Koolhaüs? His handwaves also create frothing water.
+
+As we approach, they say they want us to observe their duel. We want to know more... They say we're clearly from offworld from our outfits - which are blasphemous - but are educated? They're anthropologists, studying the precursor race that lived on this planet before the Terran Mandate, with low opinions of the colonists. He found that his cohort farts too much eating the local food and takes up too much space in the canoe. Emrite asks how they're standing on the water. They look down and realize the bridge they're standing on is sinking. The fat one wishes the thin one is eaten by squid, and we realize they're on a bridge.
+
+It's not his work that's impeded by the dam, it's the other one's work who thinks that they arrival of the Terran mandate turned them into a decent civilization. They're really fighting because they've been in a canoe for 5 days, spent all their money on the devices, and have decided that they can only solve their differences by dueling to the death. They each offer us money to kill the other and say the other won the duel. He says Rem Koolhaüs is a serial pedophile, but there is no proof, he's just trying to besmirch him. The balls they're using are psi-tech, harnessing an ability to manipulate water.
+
+They were approaching the dam when it was suddenly deleted. He gestures towards a 4-ft fin rising out of the water, saying that it will probably tear his colleague apart. Emrite offers to take one of them aboard our craft and leave the other the canoe, and they seem pretty set on killing one another.
+
+The floor of the canoe is carpeted in wrappers. There's no mechanical damage to the canoe, it's just out of gas. The creature is coming closer and closer. Emrite realizes it must be 20' long and is charging at the anthropologists. The creature hurls itself out of the water at one of the academics and appears to be an enormous Hartoumian River Pike. It looms with open jaws towards Rem Koolhaüs - the fat one.
+
+Rahim fires at the pike, hitting it for minor damage through a fin. Emrite misses. Remtries to hit it with a water construct, but doesn't seem to affect it much. Kruti ties the canoe to the Gender Neutral.
+
+Rahim misses the fish. Emrite manages to hit the fish in the eye, prompting it to toss Remback to the bridge. Remtakes an item that looks like two pencils end to end, activating it and throwing it towards the pike. It explodes! The fish is now scored with a gridded network of lines, chunks of it floating in the water. The fish soaks us with river water, Ruskin's hat further rekt. The pike flees. Kruuti ignores the fish and asks Rem for his medkit, that he doesn't have. She uses his belt to tourniquet his leg.
+
+We look for a place to lay low for the evening. Some land to the east might do,
+
+Kruti stablizes Rem and dresses his wound. Emrite talks to Ruskin Behavior, asking what they were looking for. They didn't have enough fuel to get the whole way up the river, and his maps were outdated. They were trying to find remnants of glittering golden tombs. He thinks that the Terran Mandate civilized them, though they were able to keep some of their primitive practices. After many years of selective breeding, they were something that once was human. Koolhaüs says he thinks they were more advanced.
