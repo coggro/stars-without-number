@@ -284,7 +284,17 @@ Through context, she manages to get the names of the other overseers. The anthro
 
 We decide to make a run back to the town, preferably after exploring the church past the toads. Kruuti hucks a chunk of driftwood. The toad doesn't hop away, but doesn't seem inclined to move very much.
 
-Kruuti consults her precognitive abilities to see if it's a good idea to go through the toads.
+Kruuti consults her precognitive abilities to see if it's a good idea to go through the toads. The vision shows her hanging from the door of the church by herself, above a host of corpse frogs clamoring for her. We decide to try and hit a frog from the hovercraft, and Emrite fires with her laser pistol. She misses, but the toad turns to face us before deeply croaking and beginning to shuffle towards us. It pulls aggro from 4-5 additional toads.
+
+Rahim shoots at a toad and connects. The toad bellows and speeds up, but they're unlikely to reach us any time soon. Kruuti also takes a pistol shot and hits, but it's not enough to kill it. Emrite fires her shear rifle and the toad _unravels_.
+
+She's able to distract the rest of the toads by strategically dismantling a few additional toads, and Rahim drives them up to the church to enter. Emrite fires two additional shots into the floor to create an entrance, and she and Kruuti make their way in. They cut a few pipes and conduits, but are able to enter. The pews have all fallen to the floor (previously a wall). The altar is still intact, and appears to be a smaller version of a jeweler's loupe or detective's magnifying glass as the central focus in the room. The lens was massive enough that it bent the stem when the building tipped. A cabinet door hangs open at the front of the altar. There doesn't appear to be anybody else in the church.
+
+They slide down and walk across the mound of wooden pews to the front. The whole place smells like old river water. Inside the altar, they see what was a well-organized series of baskets that have tumbled into one another. It looks like dried dumpling wrappers in the shape of a stick of gum (like communion wafers). An assortment of unbroken vials of clear liquid. The way the light refracts through the liquid immediately shows that it's clear, but not water. In addition, a thick book with brass endcaps and bound in leather. The cover also looks like the lens on the stem. It's about the size of a modern bible. The symbols are ideograms in the pattern and style of the hexogram qr codes on the sarcophagus. There's an 8x20 grid of them on each page, and was handwritten. Each of the vials is capped in a screw top. Kruuti takes two vials of the liquid and two of the wafers.
+
+Rahim sees that the toads are fully busy eating the other toads, actively getting in the way of their own progress. They check out a closet and find a cassock with a lens on a stem embroidered into it. Kruuti takes a picture of the lens on the altar and the cassock.
+
+We load back up and recover our materials.
 
 ## 2020--S -- Session 005
 
