@@ -294,9 +294,11 @@ They slide down and walk across the mound of wooden pews to the front. The whole
 
 Rahim sees that the toads are fully busy eating the other toads, actively getting in the way of their own progress. They check out a closet and find a cassock with a lens on a stem embroidered into it. Kruuti takes a picture of the lens on the altar and the cassock.
 
-We load back up and recover our materials.
+We load back up and recover our materials and decide to head back to town with the spoils of our recent adventures.
 
-## 2020--S -- Session 005
+## 2020-06-20-S -- Session 005
+
+We turn around and head back downriver, moving faster since we're going with the flow of the river.
 
 ## 2020--S -- Session 006
 
