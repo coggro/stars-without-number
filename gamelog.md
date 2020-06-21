@@ -298,7 +298,31 @@ We load back up and recover our materials and decide to head back to town with t
 
 ## 2020-06-20-S -- Session 005
 
-We turn around and head back downriver, moving faster since we're going with the flow of the river.
+We turn around and head back downriver, moving faster since we're going with the flow of the river. Carrion birds scatter at the sound of the Gender Neutral's engine, except for a large cloud of them ahead of us. We're fast approaching, and it's near to where we expect to pass by. Enough to notice 10 minutes upriver, taken off as though they were startled by something.
+
+We have the option of going around in shallower waters and less-safe terrain to circumvent the threat and still arrive at Carromir, and we choose to avail ourselves of that option.
+
+Kruuti looks to spot things, Emrite helps to secure the towed items, and Rahim pilots the craft back. We end up getting lost anyway, and end up in an orchard full of water and corpses, making jam in the waterways. We end up in Carromir 3 hours later, an extra 2.5 hours on our trip. It's well into the evening, and we're able to navigate into the dark town - lit only by fires on rooftops and such.
+
+We look to use the LAN to ping Max and let him know we'll be coming by. The anthropologists are unloaded, departing without the equipment/"weapons" we took from them. Behavior tries to get a sidearm from us, which we refuse him. Kruuti looks back to see him trying to decide whether to use a pipe or rock to attack his compatriot. She suggests he use the pipe.
+
+We depart to meet Max at The Latipan and come across people going through the rubble. We ask them about the children and one offers to help us for payment of food, suggesting that we not offer custody of helpless, "delicious-looking" children to just anyone. He comes back 25 minutes later with Theodore Brozen, the man whose life Emrite saved with the shear rifle. Brozen looks haggard, but strong and tall. A younger, mustached man with a long hunk of wood accompanies him. The kids immediately recognize him and are happy to see him as they're reunited. They lived with his brother, upriver, and washed downriver in the flood. He asks what happened to their parents, and they shake their heads and bury their faces in his midsection. We give then enough to eat for 2 days or so (6 rations), and head to the Latipan.
+
+Max meets us and we tell him about the anthropologists and the children. We also tell him about the sarcophagus and its power supply. This could get the ship into orbit for additional repairs, but also could provide power for 100mi or so without any degredation. He goes to get the captain, who seems intent on using the reactor in the pod without regard for the occupant. We decide to wake him up as best we can and let The Latipan use the power supply to get up to the orbital.
+
+The sarcophagus gets pulled into the ship over 1h30m or so of effort and hauling. It's cleaned and hooked up, and we're ready to wake him. Kruuti asks what will happen when we open the casket, and she sees a vision of herself put a giant key in a giant lock in darkness underground, and feels immensely satisfied.
+
+We go through with the revival process, but it goes poorly, and he is vaporized. Turns out, he'd been dead the whole time and the sarcophagus malfunctioned by not reporting errors. We discover a sword and a key in the sarcophagus, and take them. Then, an alarm goes off in the cargo hold. The key thing is radioactive, and has set off alarms. It turns out to be a trivial amount of radiation - like being in the same room as a dental x-ray. Kruuti finds key-like grooves and a Terran Mandate QR code imprinted on it. She tinkers with the sarcophagus and creates a shielded sheath for it. The sword is pretty freakin' cool. It's super fucking sharp - she's pretty sure it would carve off portions of the bulkhead of the ship. It's probably monomolecular.
+
+The psychics realize that they both sense the sword accepts psychic effort, and is psi-tech.
+
+We get paid for our efforts thus far (returning with a power source for the ship), and depart for the dam. We come around the bend and see a path towards the dam up a creek towards a cypress tree, and we pilot up it. The tree is knotted with bodies and limbs. At the top, like a bizarre christmas tree star, a corpse - knotted in a tangle - wears a bright necklace of gold and glimmering amber. Emrite retrieves it with telekinesis. It's large, like a chain. It's a tremendous amount of gold. It's worth significant money.
+
+We then merge back on to the main span of water on a new leg of the river. It juts off to the right, further than the eye could see. We managed to skip a significant portion of the river's normal path. We're 15mi from the dam, sealing off a mountain pass. It's enormous. Ahead of us, there is a huge log rising out of the water. There are additional figures on top of the log. There's a hill off to our left (15-20 min) diversion with a crowd of animals on it - a broad mix of different animals.
+
+The tree is a massive root structure exposed in mid-air. On top of the log, fairly close to the water, are three figures. They seem frozen in the middle of some unlikely discovery. One looks shocked. Behind him is a diminutive figure - about the size of a 9yo. Definitely not human, but reddish-brown. Long thin hands, reddish tail, spade-shaped head. One hand in the pocket of the robes of the first figure. Behind that creature is another humanoid non-human figure. Lanky, long-limbed (maybe deliberate genetic manipulation), loincloth/ragged leather, spear in its hands, and rearing back to stab the brown red thing.
+
+Kruuti uses her oracular ability to see what happens if we bring the human on the boat and sees armies of the other creatures charging towards each other as she stands on a bruise purple plane of biomatter.
 
 ## 2020--S -- Session 006
 
