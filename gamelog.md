@@ -536,7 +536,7 @@ Telekinesis through a microscope: If it fxs solely on perception, neat. But if n
 
 How much of our brains do we share?
 
-## 2020-08-02-S -- Session 011
+## 2020-08-02-N -- Session 011
 
 We radio down to our hirelings and receive no answer on the channel. They may have made off with our craft or could be hiding out now. There are lights moving across the river valley, and a new landscape from under the dam. We expect creatures to arrive within an hour. We opt to examine the door. Kruuti is able to feel the telepathic presense of the underseer she made contact with days ago, and he's an option for defense if we need him. We decide to examine the large door.
 
@@ -570,7 +570,7 @@ This is when we hear a gut-churning, loud metallic BANG. It wakes us all up...
 
 -- GAME CUT SHORT --
 
-## 2020-08-8-S -- Session 012
+## 2020-08-08-S -- Session 012
 
 We awake to the bang and try the hidden door. There's no change, and it's still immovable. We decide to wait and see what happens. Kruuti looks over the edge and is able to hear a few second order echoes and some laser fire. After a few minutes, it dies down... before abruptly picking back up again. Now it's shouts, ringing out in alarm and anger. Now much clearer sounds of heavy impacts, heavy footfalls, and laser fire. Abruptly, from below us, four people spill out of the breach in the wall at a full sprint. One leaps out of the side into the water, falling down and bouncing off rocks. More sprint as fast as they can go, falling painfully several times. We hear additional heavy metallic footfalls, but nothing else comes out of the dam. A new voice rings we've never heard before rings out from the structure of the dam below, not in a language we speak. It sounds like a pitch-shifted dial-up internet connection. It's a harsh and grating basso screech of digital tones.
 
@@ -634,7 +634,37 @@ A bioscan suggests that they died 14-16 hours ago. The arrow is about the thickn
 
 We debate briefly over fixing the GN or finding Emma Harris. We look at the damage and find that it has been expertly fucked. Despite the small size, the GN has 1 HP remaining.
 
-## 2020--S -- Session 013
+## 2020-08-15-S -- Session 013
+
+Carromir religious is secular reverence of the initial ship arriving. More of a rejection of new tech than embracing something else. Burial is very practical, often individually cultural. We take Harris's personal effects and rifle, finding that his rifle had its safety on and no round ready in the chamber. We bury him and mark his grave.
+
+We make our way back into the dam for spare parts using Emrite as a telekinetic engine. It takes us about two hours. As we approach the dam, we hear the chirp of a radio on the right-hand bank. There, we see the recognizable jacket of Emma Harris. On an attached string, we see a comlink. Emrite brings it over with telekinesis, and it's tuned to a specific open channel. When it gets closer, there is a thumb-pad-sized smear of blood on the case. She says "Hello." A voice we've never heard - ever - responds. A woman, anywhere between young 20s and late 40s, responds: "Hello. Thank you for answering our call. We have your employee, and some requests for us, if we'd like to get her back alive. We are a number of interested parties involved in what's going on with the dam. We've noticed your progress up to this point, are impressed by your tenacity, and would like to cut a deal with you. Interests aren't aligned, but could be."
+
+"What are your interests?"
+
+"Right now, we're interested in having you call of your search. Go back to Carromir and wait there for rescue. Wait a week for signal to get out."
+
+"We crash landed here."
+
+"We know. We'd like to give you a way off this planet. We'll provide a way for you to leave if you stop searching for the observatory. Just go home."
+
+"So you're confirming that it exists."
+
+"We all know it exists. Only one person can gain access, and my employer wants it to be his interests. Go back to town, do whatever it is you need to do, and we'll guarantee a way off-planet in a week's time. And we'll return Emma Harris alive and well."
+
+"What about her husband?"
+
+"Dead."
+
+"Why kill him?"
+
+"Because if we hadn't, he might've tried to stop us from damaging your hovercraft. Would you like to talk to her?"
+
+The channel fills with a bloodcurdling scream of agony, not in the voice of the woman talking.
+
+She gives us a bit of time to discuss. Emrite disables the tracking capabilities on the compad. Emrite hacks it and finds that the other end is on top of the dam.
+
+We agree to head back to Carromir and they agree to drop Emma Harris off at the edge of town and let us know where she is. We're fully lying, of course, but we obviously don't tell them that.
 
 ## 2020--S -- Session 014
 

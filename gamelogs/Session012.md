@@ -1,4 +1,4 @@
-## 2020-08-8-S -- Session 012
+## 2020-08-08-S -- Session 012
 
 We awake to the bang and try the hidden door. There's no change, and it's still immovable. We decide to wait and see what happens. Kruuti looks over the edge and is able to hear a few second order echoes and some laser fire. After a few minutes, it dies down... before abruptly picking back up again. Now it's shouts, ringing out in alarm and anger. Now much clearer sounds of heavy impacts, heavy footfalls, and laser fire. Abruptly, from below us, four people spill out of the breach in the wall at a full sprint. One leaps out of the side into the water, falling down and bouncing off rocks. More sprint as fast as they can go, falling painfully several times. We hear additional heavy metallic footfalls, but nothing else comes out of the dam. A new voice rings we've never heard before rings out from the structure of the dam below, not in a language we speak. It sounds like a pitch-shifted dial-up internet connection. It's a harsh and grating basso screech of digital tones.
 
