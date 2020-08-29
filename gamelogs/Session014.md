@@ -44,8 +44,3 @@ We also get a message that is just a subject line:
 ```
 ENLARGE YOUR NECESVENKATOSENSARY GLANDS WITH ONE WEIOUTOFCASHRD TRICK! TAP HERSELLANYTHINGNECESSARYTOFINISHE!
 ```
-
-Chris Evans middle ground sidebar
-https://eastb.astartingpoint.com/
-
-Ass over teakettle origins
