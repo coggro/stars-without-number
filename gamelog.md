@@ -1,6 +1,6 @@
 # Game Log
 
-## 2020-05-16-S -- Session 001
+## 2020-05-16-S -- Session 001 #S001
 
 Our story begins with us unable to move and panicked. Stark chemical smell in the air. Crash couch enveloping our bodies. Klaxons screaming bleeding through the claustrophobic grip of the crash couch, and the ship shudders violently towards the surface of the planet we've never been to before. But it didn't start out like this...
 
@@ -112,7 +112,7 @@ We're able to crack into the first class portions of food on the shuttle. We hav
 
 As we check out the shattered remnatns of the shuttle, we come across the portion of the shuttle that contained the escape pods. There are 6 pods. 5 are still attached and crushed beyond repair - 1 is missing.
 
-## 2020-05-23-S -- Session 002
+## 2020-05-23-S -- Session 002 #S002
 
 We are in the smoking crater of the ship's boat. Something terrible happened on our way down, and so we have awakened several days after the crash. It's roughly 4AM.
 
@@ -196,7 +196,7 @@ He says the people who live her are weird - and he chooses to live in space. The
 
 We take him on our hovercraft over to the ship that has rolled into the center of town on a 30deg cant and a 45deg angle, wedged between two buildings. Where the wings were torn, the space between has been crudely filled in with expanding foam. Ladders hang for access and tarps hang for sun shields. Workmen shout and locals mill about shouting at people in the ship.
 
-## 2020-05-30-S -- Session 003
+## 2020-05-30-S -- Session 003 #S003
 
 Max takes us through Carromir and we see the devastation and recovery. Off to the far NE, there is a plume of steam that has reached up so high it has hit an atmospheric ceiling and has umbrella'd out into a thunderhead.
 
@@ -258,7 +258,7 @@ We look for a place to lay low for the evening. Some land to the east might do,
 
 Kruti stablizes Rem and dresses his wound. Emrite talks to Ruskin Behavior, asking what they were looking for. They didn't have enough fuel to get the whole way up the river, and his maps were outdated. They were trying to find remnants of glittering golden tombs. He thinks that the Terran Mandate civilized them, though they were able to keep some of their primitive practices. After many years of selective breeding, they were something that once was human. Koolhaüs says he thinks they were more advanced.
 
-## 2020-06-13-S -- Session 004
+## 2020-06-13-S -- Session 004 #S004
 
 We've found a place to camp and plan out our evening. The night passes coldly. The scholars demand a spot in the tent, but otherwise keep the peace for the evening. There's a low-lying fog as we wake to the river still overflowing its banks. We pack out, unhook the Gender Neutral, and continue on. Emrite spent the evening with one of the devices, but didn't uncover any additional functionality.
 
@@ -296,7 +296,7 @@ Rahim sees that the toads are fully busy eating the other toads, actively gettin
 
 We load back up and recover our materials and decide to head back to town with the spoils of our recent adventures.
 
-## 2020-06-20-S -- Session 005
+## 2020-06-20-S -- Session 005 #S005
 
 We turn around and head back downriver, moving faster since we're going with the flow of the river. Carrion birds scatter at the sound of the Gender Neutral's engine, except for a large cloud of them ahead of us. We're fast approaching, and it's near to where we expect to pass by. Enough to notice 10 minutes upriver, taken off as though they were startled by something.
 
@@ -324,7 +324,7 @@ The tree is a massive root structure exposed in mid-air. On top of the log, fair
 
 Kruuti uses her oracular ability to see what happens if we bring the human on the boat and sees armies of the other creatures charging towards each other as she stands on a bruise purple plane of biomatter.
 
-## 2020-27-06-S -- Session 006
+## 2020-27-06-S -- Session 006 #S006
 
 Kruuti makes psychic contact with the humanoid and feels panic and hope. They have the image of a brown/black/green rapidly inflating popover-type going right for their face. It's clearly coming out of a knothole on the log they're stuck on.
 
@@ -361,7 +361,7 @@ Rahim is able to skirt around it and get closer to the dam. "OVERSEER HARANANA R
 
 Emrite misses with the shear rifle, and Rahim disengages. Kruuti tries to cut the rock on board with the saber, which goes poorly. We discuss our options until we notice someone waving a flaring torch at us, near a copse of trees. There is a trickle of smoke coming from there and a man in rags with a torch. As we approach, his hoarse voice shouts "I need help." As we approached, a swarm of zombies began raking at our vessel and clamoring to board.
 
-## 2020--S -- Session 007
+## 2020--S -- Session 007 #S007
 
 There's space for the three of us, one more person/gear comfortably, and a final person/gear uncomfortably. 7 forms emerge out of the water, and each one appears to have a glowing red light on the back of their necks. Emrite unleashes a burst of shear rifle fire, but fires high and hits the treeline. Rahim manages a tight spin with the Gender Neutral and spins off several of the creatures. He then draws his laser pistol. Kruuti attacks with her psychic saber, slicing one in half.
 
@@ -375,7 +375,7 @@ We continue on our way back to Carromir as Kruuti and Emrite begin to look at th
 
 Things have improved significantly, and can purify and crack water. Lots of welding and such going on. We go to Captain Zarathusa with the zombie weave and information on the dam. We discuss the dam, the GN, the animals on the hill, and zombies. She's seen this tech before - colonial seed technology. It takes any silicates in the soil and uses whatever it can to build basic transponders. It looks like tech used to build something with no human interaction, like an evolutionary neural network. Looks like someone planted one in the back of someone's head. We're offered cash to bring back whoever's doing it.
 
-## 2020--S -- Session 008
+## 2020--S -- Session 008 #S008
 
 We get our shit together, including rope, climbing gear, and binoculars, and head out towards the dam again. We intend to ditch the GN.
 
@@ -389,7 +389,7 @@ Rahim cannot bring his knife to bear. Kruuti accidentally hits Rahim instead of 
 
 The fish are taken care of in the following turn, and we high-tail it back to Carromir for rest and recovery.
 
-## 2020-07-18-S -- Session 009
+## 2020-07-18-S -- Session 009 #S009
 
 We hired 2 people at 30 (3rd-level or so). They'll go to the dam but not inside, and will be paid half before and half after to guard the GN roughly 2-4 days. We get Douglas and Emma Harris, a married couple. Emrite asks a barrage of questions, which Douglas reluctantly answers.
 
@@ -430,7 +430,7 @@ Emrite floats a drone up into the next room. The walls are more or less plastere
 
 Kruuti has a vision of going up to pass through the room and it doesn't go well. We turn back and decide to head up through the crack in the dam to the room we saw from the first room we entered, and end here.
 
-## 2020-07-25-S -- Session 010
+## 2020-07-25-S -- Session 010 #S010
 
 We make it into the room, torn open by the cataclysmic damage dealt to the dam. This was some kind of server room - racks mounted to the walls with smashed and waterlogged server banks. One door on the opposite side is a security door with electromagnetic locks, etc. It has been sheared clear off of the door frame and lies in a puddle of water. Beyond the doorway are a set of stairs towards a room of similar size.
 
@@ -536,7 +536,7 @@ Telekinesis through a microscope: If it fxs solely on perception, neat. But if n
 
 How much of our brains do we share?
 
-## 2020-08-02-N -- Session 011
+## 2020-08-02-N -- Session 011 #S011
 
 We radio down to our hirelings and receive no answer on the channel. They may have made off with our craft or could be hiding out now. There are lights moving across the river valley, and a new landscape from under the dam. We expect creatures to arrive within an hour. We opt to examine the door. Kruuti is able to feel the telepathic presense of the underseer she made contact with days ago, and he's an option for defense if we need him. We decide to examine the large door.
 
@@ -570,7 +570,7 @@ This is when we hear a gut-churning, loud metallic BANG. It wakes us all up...
 
 -- GAME CUT SHORT --
 
-## 2020-08-08-S -- Session 012
+## 2020-08-08-S -- Session 012 #S012
 
 We awake to the bang and try the hidden door. There's no change, and it's still immovable. We decide to wait and see what happens. Kruuti looks over the edge and is able to hear a few second order echoes and some laser fire. After a few minutes, it dies down... before abruptly picking back up again. Now it's shouts, ringing out in alarm and anger. Now much clearer sounds of heavy impacts, heavy footfalls, and laser fire. Abruptly, from below us, four people spill out of the breach in the wall at a full sprint. One leaps out of the side into the water, falling down and bouncing off rocks. More sprint as fast as they can go, falling painfully several times. We hear additional heavy metallic footfalls, but nothing else comes out of the dam. A new voice rings we've never heard before rings out from the structure of the dam below, not in a language we speak. It sounds like a pitch-shifted dial-up internet connection. It's a harsh and grating basso screech of digital tones.
 
@@ -634,7 +634,7 @@ A bioscan suggests that they died 14-16 hours ago. The arrow is about the thickn
 
 We debate briefly over fixing the GN or finding Emma Harris. We look at the damage and find that it has been expertly fucked. Despite the small size, the GN has 1 HP remaining.
 
-## 2020-08-15-S -- Session 013
+## 2020-08-15-S -- Session 013 #S013
 
 Carromir religious is secular reverence of the initial ship arriving. More of a rejection of new tech than embracing something else. Burial is very practical, often individually cultural. We take Harris's personal effects and rifle, finding that his rifle had its safety on and no round ready in the chamber. We bury him and mark his grave.
 
@@ -666,7 +666,7 @@ She gives us a bit of time to discuss. Emrite disables the tracking capabilities
 
 We agree to head back to Carromir and they agree to drop Emma Harris off at the edge of town and let us know where she is. We're fully lying, of course, but we obviously don't tell them that.
 
-## 2020-08-22-S -- Session 014
+## 2020-08-22-S -- Session 014 #S014
 
 We begin to head back to Carromir. It's uneventful, and takes us 3 hours. We pass by familiar landmarks and arrive back at Carromir. We decide to go back to the Latipan. We spent considerable time discussing flipping the ship.
 
@@ -713,32 +713,34 @@ We also get a message that is just a subject line:
 ENLARGE YOUR NECESVENKATOSENSARY GLANDS WITH ONE WEIOUTOFCASHRD TRICK! TAP HERSELLANYTHINGNECESSARYTOFINISHE!
 ```
 
-## 2020--S -- Session 015
+## 2020--S -- Session 015 #S015
 
-## 2020--S -- Session 016
+We do a bunch of trading and purchasing. We repair the GN, Rahim gets a laser rifle in exchange for two laser pistols and some credits, and some extra A Cells. Kruuti and Emrite get grenades, some additional armaments, and tools. We also
 
-## 2020--S -- Session 017
+## 2020--S -- Session 016 #S016
 
-## 2020--S -- Session 018
+## 2020--S -- Session 017 #S017
 
-## 2020--S -- Session 019
+## 2020--S -- Session 018 #S018
 
-## 2020--S -- Session 020
+## 2020--S -- Session 019 #S019
 
-## 2020--S -- Session 021
+## 2020--S -- Session 020 #S020
 
-## 2020--S -- Session 022
+## 2020--S -- Session 021 #S021
 
-## 2020--S -- Session 023
+## 2020--S -- Session 022 #S022
 
-## 2020--S -- Session 024
+## 2020--S -- Session 023 #S023
 
-## 2020--S -- Session 025
+## 2020--S -- Session 024 #S024
 
-## 2020--S -- Session 026
+## 2020--S -- Session 025 #S025
 
-## 2020--S -- Session 027
+## 2020--S -- Session 026 #S026
 
-## 2020--S -- Session 028
+## 2020--S -- Session 027 #S027
 
-## 2020--S -- Session 029
+## 2020--S -- Session 028 #S028
+
+## 2020--S -- Session 029 #S029
