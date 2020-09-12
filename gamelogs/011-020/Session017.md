@@ -8,4 +8,4 @@ We return to the storage room to find that nothing has changed in our short abse
 
 Hanging from the ceiling is a cargo cage. The E and S walls hace stairs down, and another ladder descends into the floor. On the east wall is a garage-door sized bronze door with patterns, gears, and symbols. It's currently down, but is designed to collapse upwards like a garage door. It is broad as a 3-lane highway. On the side of it is a chain pulley linked up to the mechanism by the door. It's roughly human height.
 
-We float a compad up to surveil the cargo cage and find that it's empty.
+We float a compad up to surveil the cargo cage and find that it's empty. As we're trying to clear floors as we go, we decide to open the bronze door.
