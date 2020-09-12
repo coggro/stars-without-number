@@ -777,7 +777,7 @@ Another case has another single object inside with a significant amount of struc
 
 The eight crate contains 50 breakdown climbing poles with razor-sharp crescent hook and barb on the end with a flipovercap for the crescent hook. The whole thing can breakdown and compress to the size of a flashlight. They are shockingly light.
 
-The ninth crate has lanterns. The design is profoundly strange. They don't give out incandescent light - they give out redshift light, not messing with night vision. One is clearly marked as separate. It has an active battery, but doesn't have any noticable effect. It throws out low-grade infrared light.
+The ninth crate has lanterns. The design is profoundly strange. They give out redshift light, not messing with night vision. One is clearly marked as separate. It has an active battery, but doesn't have any noticable effect. It throws out low-grade infrared light.
 
 The last crate contains 50 gas masks and tank sets that look like they hook up. The seals on all of them are completely degraded. The straps on the masks don't look like they'd fit around human heads - they're in the wrong place. If you stretched a human head cartoonishly, it might fit. Otherwise, no. They have two eye spots and a mouth, but would look like a Looney Toons character.
 
