@@ -6,9 +6,9 @@ We are in the smoking crater of the ship's boat. Something terrible happened on 
 
 We stand on the lip of the crater. Emrite uses the light on her metatool to look at the area around us and notices that the ground around us is incredibly muddy. That's odd, since we're at the top of a hill... The trees around us look odd as well. Those near us have mud splashed on them up around mid-thigh height. There is something splashing in a nearby mud puddle.
 
-Kruuti takes out her light as well and we see a mostly-translucent speckled 6-tentacled cephalopod. Nearby, another also splashes in the puddle. It's a muggy bog. We're a good 75 ft above the plains below us.
+Kruti takes out her light as well and we see a mostly-translucent speckled 6-tentacled cephalopod. Nearby, another also splashes in the puddle. It's a muggy bog. We're a good 75 ft above the plains below us.
 
-We see lots of broken trees, but they aren't pointed towards the crater. Kruuti attempts to fix the bioscanner and accomplishes her task in about an hour. Rahim figures out that the cockpit isn't disintegrated on impact, and landed belly-first. There may be salvagable data or systems in that cockpit. He also knows that he doesn't know much about the squids, but he's fairly certain they don't belong here.
+We see lots of broken trees, but they aren't pointed towards the crater. Kruti attempts to fix the bioscanner and accomplishes her task in about an hour. Rahim figures out that the cockpit isn't disintegrated on impact, and landed belly-first. There may be salvagable data or systems in that cockpit. He also knows that he doesn't know much about the squids, but he's fairly certain they don't belong here.
 
 Emrite searches the perimeter, armed with her shear rifle and laser pistol. She finds the burning trail of stuff behind the ship. She makes her way down the hill and gets the sense that there is considerable water here, flowing back to the NW - in the direction the shuttle crashed down from. She's about 3/4 of the way around when she finds the body of a sheep... in a large tree... 18ft off the ground...speared on a broken branch...
 
@@ -19,7 +19,7 @@ Rahim makes his way to the cockpit. There's no body inside. Blood everywhere, bu
 - Last known location
 
   - Rahim assists via INT Pilot
-  - Kruuti figures out the ship went down just 26 km NW of the colony
+  - Kruti figures out the ship went down just 26 km NW of the colony
 
 - External force or mechanical failure
 
@@ -54,7 +54,7 @@ Closer to the building are more people. Two women on a low hillock. One is screa
 
 We pass the remains of a building on a muddy hill, barely sticking out of the water. A man, almost as old as the crone, stands - dressed well, soaked to the bone. He is using his bare hands to scrape out shallow graves for bodies laid over the hill. Next to him, in a half-wrecked buidling, is a woman in her mid-20s, surrounded by a screaming group of 7-9yo children. They're all shouting at her, asking her where their parents are. She's frantically trying to calm them, and looks at our craft with an uninterpretable glance.
 
-We decide to stop and have a chat with the schoolmarm. 2/4 walls were ripped away, and the building is half-collapsed. She wears a soaked dress, shivering. The children are also soaked, spattered in mud. Kruuti bioscans the teacher and finds she's in relative good health - hungry, cold, but not poisoned or dying.
+We decide to stop and have a chat with the schoolmarm. 2/4 walls were ripped away, and the building is half-collapsed. She wears a soaked dress, shivering. The children are also soaked, spattered in mud. Kruti bioscans the teacher and finds she's in relative good health - hungry, cold, but not poisoned or dying.
 
 Emrite asks what happened, and the woman says there was a flood. The dam burst, the water came and washed away the town. She wants to know if we have any food, and that the children are starving. Kruti asks when this happened, and it has apparently been 6-7 days. Emrite asks about the dam. She points vaguely upriver, but doesn't know anything about the dam. She asks if we're there to help, and Emrite responds no. The woman looks crestfallen. She asks if we can take them to safety, but we can't.
 

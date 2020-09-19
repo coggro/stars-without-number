@@ -54,7 +54,7 @@ The floor of the canoe is carpeted in wrappers. There's no mechanical damage to 
 
 Rahim fires at the pike, hitting it for minor damage through a fin. Emrite misses. Remtries to hit it with a water construct, but doesn't seem to affect it much. Kruti ties the canoe to the Gender Neutral.
 
-Rahim misses the fish. Emrite manages to hit the fish in the eye, prompting it to toss Remback to the bridge. Remtakes an item that looks like two pencils end to end, activating it and throwing it towards the pike. It explodes! The fish is now scored with a gridded network of lines, chunks of it floating in the water. The fish soaks us with river water, Ruskin's hat further rekt. The pike flees. Kruuti ignores the fish and asks Rem for his medkit, that he doesn't have. She uses his belt to tourniquet his leg.
+Rahim misses the fish. Emrite manages to hit the fish in the eye, prompting it to toss Remback to the bridge. Remtakes an item that looks like two pencils end to end, activating it and throwing it towards the pike. It explodes! The fish is now scored with a gridded network of lines, chunks of it floating in the water. The fish soaks us with river water, Ruskin's hat further rekt. The pike flees. Kruti ignores the fish and asks Rem for his medkit, that he doesn't have. She uses his belt to tourniquet his leg.
 
 We look for a place to lay low for the evening. Some land to the east might do,
 

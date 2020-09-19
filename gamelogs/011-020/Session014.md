@@ -14,7 +14,7 @@ Transport, high buzz of Site 002. They need to get off planet, and don't want to
    Rahim solves with Talk!
 
 2. Shear rifle speed & accuracy. Preprogram a firing solution.
-   Kruuti solves with Fix! Emrite solves with Hack!
+   Kruti solves with Fix! Emrite solves with Hack!
 
 IT WORKS! We do it, and the ship rights itself. Emrite never has to Impact Sump, and Captain Zarathusa offers us jobs. We politely deflect, and start preparing to leave.
 
