@@ -1,0 +1,27 @@
+Hull: Free Merchant
+Cust: 500k/250k/125k
+Speed: 3
+Armor: 2
+HP: 20
+Crew: 1/6
+AC: 14
+Power: 10
+Mass: 15
+Hard: 2
+Class: Frigate
+--------------------------------------------------
+| Title                 | Cost         | Pow| Mas|
+--------------------------------------------------
+| Advanced Nav          | 10k*/100k    |1#/2|   0|
+| Atmospheric Config    | 5k*/50k      |   0|1#/2|
+| Automation Support    | 10k*/100k    |   2|   1|
+| Drive-3 Upgrade       | 20k*/200k    |2#/4|2#/4|
+| Extended Stores       | 2.5k*/25k    |   0|1#/2|
+| Fuel Scoops           | 5k*/50k      |   2|1#/2|
+| Lifeboats             | 2.5k*/25k    |   0|   1|
+| Ship's Locker         | 2k*/20k      |   0|   0|
+| Survey Sensor Array   | 5k*/50k      |   0|   1|
+| Tractor Beams         | 20k*/20k     |   2|   1|
+--------------------------------------------------
+| Total                 | 72k/720k     |  12|  14|
+--------------------------------------------------
